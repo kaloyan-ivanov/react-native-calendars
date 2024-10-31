@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaloyan-ivanov/react-native-calendars"
+    "url": "git+https://github.com/wix/react-native-calendars"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -74,7 +74,7 @@
     "metro-react-native-babel-preset": "0.73.7",
     "mocha": "^7.1.0",
     "prettier": "^2.4.1",
-    "react": "18.0.2",
+    "react": "18.2.0",
     "react-component-driver": "^0.10.0",
     "react-native": "0.71.2",
     "react-native-navigation": "7.32.1",
